@@ -1,5 +1,6 @@
 function sexy(){
     var a = 20;
     var b = a*2;
+    return b;
 };
-console.log(10+10);
+console.log(sexy());
